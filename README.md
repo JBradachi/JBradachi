@@ -11,6 +11,5 @@ You can click the Preview link to take a look at your changes.
 --->
 <div>
   <p></p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=JBradachi&show_icons=true&theme=tokyonight" />
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JBradachi&layout=donut&show_icons=true&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JBradachi&layout=donut&show_icons=true&theme=tokyonight&langs_count=8">
  </div>
