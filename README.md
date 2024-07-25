@@ -3,7 +3,6 @@
 
 
 - ✏️ Junior Research Student at NESPED-UFV.
-- Sou o João bobão cabeça de melão.
 - 🏫 Federal University of Viçosa, Florestal - Brazil
 
 <!---
