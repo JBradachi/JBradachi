@@ -4,7 +4,9 @@
 
 - ✏️ Research Student at NESPED-UFV and Manna_Team.
 - 🏫 Federal University of Viçosa, Florestal - Brazil
-- 
+- 🥇 Competing in coding marathons (First place in SECOM SYDLE-LEVTY programming marathon)
+- 🔬 IoT and Context Awareness
+- 🖥️ Backend Web Developer
 
 <!---
 JBradachi/JBradachi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
